@@ -2,8 +2,8 @@
 - 👀 I’m interested in Software developer
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... maddyraj808@gmail.com
-- 😄 Pronouns: ...
+- 📫 maddyraj808@gmail.com
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
 <!---
