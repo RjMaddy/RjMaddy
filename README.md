@@ -1,5 +1,5 @@
-👋 Hi, I’m @RjMaddy
-👀 I’m interested in Software developer
+ 👋 Hi, I’m @RjMaddy
+ 👀 I’m interested in Software developer
 🌱 I’m currently learning java
 💞️ I’m looking to collaborate on ...
 😄 Pronouns: He
